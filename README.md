@@ -1,7 +1,7 @@
 
 ESTI: An Action Recognition Network with Enhanced Spatio-Temporal Information
 ---------------------
-By Jiang Zhiyu, Yi Zhang
+By Zhiyu Jiang, Yi Zhang
 
 
 

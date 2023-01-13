@@ -45,7 +45,7 @@ Results
 | Dataset                | Frames | Top-1 |
 |------------------------|--------|-------|
 | Something-Something-V1 | 8      | 50.2  |
-| Something-Something-V2 | 8      | [63.7](https://pan.baidu.com/s/11Q0gN5HrESSGrNodBh9EDw?pwd=26zn 提取码：26zn)  |
+| Something-Something-V2 | 8      | [link](https://pan.baidu.com/s/11Q0gN5HrESSGrNodBh9EDw?pwd=26zn 提取码：26zn)  |
 | Jester                 | 8      | 96.9  |
 | Diving48               | 8      | 37.2  |
 | UCF101                 | 8      | 87.2  |

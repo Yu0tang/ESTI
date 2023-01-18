@@ -8,11 +8,6 @@ def return_ucf101(modality):
         filename_imglist_train = "data/ucf101/ucf101_train_split_2_rawframes.txt"
         filename_imglist_val = "data/ucf101/ucf101_val_split_2_rawframes.txt"
         prefix = 'image_{:05d}.jpg'
-    elif modality == 'Flow':
-        root_data = ROOT_DATASET + 'UCF101/jpg'
-        filename_imglist_train = 'file_list/ucf101_flow_train_split_3.txt'
-        filename_imglist_val = 'file_list/ucf101_flow_val_split_3.txt'
-        prefix = 'flow_{}_{:05d}.jpg'
     else:
         raise NotImplementedError('no such modality:' + modality)
     return filename_categories, filename_imglist_train, filename_imglist_val, root_data, prefix
